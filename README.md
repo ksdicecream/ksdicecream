@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ksdicecream
 - 👀 I’m interested in coding and AI
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and C++
 - 💞️ I’m looking to collaborate on websites
 - 📫 How to reach me Github
 
