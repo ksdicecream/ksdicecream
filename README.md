@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ksdicecream
-- 👀 I’m interested in coding and science
-- 🌱 I’m currently learning Swift and AI
+- 👀 I’m interested in making websites, games, art, and biomedical research
+- 🌱 I’m currently learning Swift, C++, Bash, and AI
 - 💞️ I’m looking to collaborate on websites and games
 - 📫 How to reach me ...
 
