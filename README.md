@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ksdicecream
-- 👀 I’m interested in creating websites, games, art, and science(biomed)
+- 👀 I’m interested in creating websites, games, art, and science(biomed/biotech)
 - 🌱 I’m currently learning Swift, C++, C, Bash, and AI
 - 💞️ I’m looking to collaborate on websites and games or bioinformatics projects
 - 📫 Contact me on Discord: ksdicecream#0792
